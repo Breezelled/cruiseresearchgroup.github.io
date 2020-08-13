@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amin Sadri | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/amin-sadri/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/amin-sadri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amin Sadri</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Amin Sadri</title>
+      <link>https://kaiqinchi.github.io/authors/amin-sadri/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised online change point detection in high-dimensional time series</title>
+      <link>https://kaiqinchi.github.io/publication/zameni-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/zameni-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What will you do for the rest of the day?: An approach to continuous trajectory prediction</title>
+      <link>https://kaiqinchi.github.io/publication/sadri-2018-will/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/sadri-2018-will/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

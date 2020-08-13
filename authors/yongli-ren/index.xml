@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yongli Ren | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/yongli-ren/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/yongli-ren/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yongli Ren</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Yongli Ren</title>
+      <link>https://kaiqinchi.github.io/authors/yongli-ren/</link>
+    </image>
+    
+    <item>
+      <title>Learning About Work Tasks to Inform Intelligent Assistant Design</title>
+      <link>https://kaiqinchi.github.io/publication/trippas-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/trippas-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multiple travelling officers problem with population-based optimization algorithms</title>
+      <link>https://kaiqinchi.github.io/publication/qin-2019-solving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/qin-2019-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying In-App User Actions from Mobile Web Logs</title>
+      <link>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the predictability of user demographics from cyber-physical-social behaviours in indoor retail spaces</title>
+      <link>https://kaiqinchi.github.io/publication/ren-2018-understanding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/ren-2018-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wait Time Prediction for Airport Taxis Using Weighted Nearest Neighbor Regression</title>
+      <link>https://kaiqinchi.github.io/publication/rahaman-2018-wait/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/rahaman-2018-wait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What will you do for the rest of the day?: An approach to continuous trajectory prediction</title>
+      <link>https://kaiqinchi.github.io/publication/sadri-2018-will/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/sadri-2018-will/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

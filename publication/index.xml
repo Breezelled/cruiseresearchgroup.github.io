@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | CRUISE</title>
+    <link>https://kaiqinchi.github.io/publication/</link>
+      <atom:link href="https://kaiqinchi.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://kaiqinchi.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Efficient trip scheduling algorithms for groups</title>
+      <link>https://kaiqinchi.github.io/publication/jahan-2019-efficient/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/jahan-2019-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Experience Sampling with Multi-View User-Driven Annotation Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/liono-2019-improving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/liono-2019-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning About Work Tasks to Inform Intelligent Assistant Design</title>
+      <link>https://kaiqinchi.github.io/publication/trippas-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/trippas-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
+      <link>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Personality Traits From Physical Activity Intensity</title>
+      <link>https://kaiqinchi.github.io/publication/gao-2019-predicting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/gao-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QDaS: Quality driven data summarisation for effective storage management in Internet of Things</title>
+      <link>https://kaiqinchi.github.io/publication/liono-2019-qdas/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/liono-2019-qdas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multiple travelling officers problem with population-based optimization algorithms</title>
+      <link>https://kaiqinchi.github.io/publication/qin-2019-solving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/qin-2019-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised online change point detection in high-dimensional time series</title>
+      <link>https://kaiqinchi.github.io/publication/zameni-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/zameni-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Room Occupancy Prediction with Transferable Time Series Decomposition of CO 2 Sensor Data</title>
+      <link>https://kaiqinchi.github.io/publication/arief-2018-scalable/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/arief-2018-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crowd-enabled Processing of Trustworthy, Privacy-Enhanced and Personalised Location Based Services with Quality Guarantee</title>
+      <link>https://kaiqinchi.github.io/publication/hashem-2018-crowd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/hashem-2018-crowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary multi-objective ensemble learning for multivariate electricity consumption prediction</title>
+      <link>https://kaiqinchi.github.io/publication/song-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/song-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying In-App User Actions from Mobile Web Logs</title>
+      <link>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining user behavioral rules from smartphone data through association analysis</title>
+      <link>https://kaiqinchi.github.io/publication/sarker-2018-mining/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/sarker-2018-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RUP: Large Room Utilisation Prediction with carbon dioxide sensor</title>
+      <link>https://kaiqinchi.github.io/publication/arief-2018-rup/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/arief-2018-rup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the predictability of user demographics from cyber-physical-social behaviours in indoor retail spaces</title>
+      <link>https://kaiqinchi.github.io/publication/ren-2018-understanding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/ren-2018-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wait Time Prediction for Airport Taxis Using Weighted Nearest Neighbor Regression</title>
+      <link>https://kaiqinchi.github.io/publication/rahaman-2018-wait/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/rahaman-2018-wait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What will you do for the rest of the day?: An approach to continuous trajectory prediction</title>
+      <link>https://kaiqinchi.github.io/publication/sadri-2018-will/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/sadri-2018-will/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling officer problem: Managing car parking violations efficiently using sensor data</title>
+      <link>https://kaiqinchi.github.io/publication/shao-2017-traveling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/shao-2017-traveling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

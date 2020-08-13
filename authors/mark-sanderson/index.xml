@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mark Sanderson | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/mark-sanderson/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/mark-sanderson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mark Sanderson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Mark Sanderson</title>
+      <link>https://kaiqinchi.github.io/authors/mark-sanderson/</link>
+    </image>
+    
+    <item>
+      <title>Identifying In-App User Actions from Mobile Web Logs</title>
+      <link>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the predictability of user demographics from cyber-physical-social behaviours in indoor retail spaces</title>
+      <link>https://kaiqinchi.github.io/publication/ren-2018-understanding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/ren-2018-understanding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

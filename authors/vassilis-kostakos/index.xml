@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vassilis Kostakos | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/vassilis-kostakos/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/vassilis-kostakos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vassilis Kostakos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Vassilis Kostakos</title>
+      <link>https://kaiqinchi.github.io/authors/vassilis-kostakos/</link>
+    </image>
+    
+    <item>
+      <title>Improving Experience Sampling with Multi-View User-Driven Annotation Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/liono-2019-improving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/liono-2019-improving/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

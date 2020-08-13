@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John C Krumm | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/john-c-krumm/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/john-c-krumm/index.xml" rel="self" type="application/rss+xml" />
+    <description>John C Krumm</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>John C Krumm</title>
+      <link>https://kaiqinchi.github.io/authors/john-c-krumm/</link>
+    </image>
+    
+    <item>
+      <title>What will you do for the rest of the day?: An approach to continuous trajectory prediction</title>
+      <link>https://kaiqinchi.github.io/publication/sadri-2018-will/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/sadri-2018-will/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

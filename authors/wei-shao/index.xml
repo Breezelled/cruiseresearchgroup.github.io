@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wei Shao | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/wei-shao/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/wei-shao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wei Shao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Wei Shao</title>
+      <link>https://kaiqinchi.github.io/authors/wei-shao/</link>
+    </image>
+    
+    <item>
+      <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
+      <link>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Personality Traits From Physical Activity Intensity</title>
+      <link>https://kaiqinchi.github.io/publication/gao-2019-predicting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/gao-2019-predicting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multiple travelling officers problem with population-based optimization algorithms</title>
+      <link>https://kaiqinchi.github.io/publication/qin-2019-solving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/qin-2019-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What will you do for the rest of the day?: An approach to continuous trajectory prediction</title>
+      <link>https://kaiqinchi.github.io/publication/sadri-2018-will/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/sadri-2018-will/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling officer problem: Managing car parking violations efficiently using sensor data</title>
+      <link>https://kaiqinchi.github.io/publication/shao-2017-traveling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/shao-2017-traveling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

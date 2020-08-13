@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | CRUISE</title>
+    <link>https://kaiqinchi.github.io/publication_types/1/</link>
+      <atom:link href="https://kaiqinchi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://kaiqinchi.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Improving Experience Sampling with Multi-View User-Driven Annotation Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/liono-2019-improving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/liono-2019-improving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning About Work Tasks to Inform Intelligent Assistant Design</title>
+      <link>https://kaiqinchi.github.io/publication/trippas-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/trippas-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
+      <link>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary multi-objective ensemble learning for multivariate electricity consumption prediction</title>
+      <link>https://kaiqinchi.github.io/publication/song-2018-evolutionary/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/song-2018-evolutionary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying In-App User Actions from Mobile Web Logs</title>
+      <link>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining user behavioral rules from smartphone data through association analysis</title>
+      <link>https://kaiqinchi.github.io/publication/sarker-2018-mining/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/sarker-2018-mining/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

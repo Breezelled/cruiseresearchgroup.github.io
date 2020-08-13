@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeffrey Chan | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/jeffrey-chan/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/jeffrey-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeffrey Chan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Jeffrey Chan</title>
+      <link>https://kaiqinchi.github.io/authors/jeffrey-chan/</link>
+    </image>
+    
+    <item>
+      <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
+      <link>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solving multiple travelling officers problem with population-based optimization algorithms</title>
+      <link>https://kaiqinchi.github.io/publication/qin-2019-solving/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/qin-2019-solving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying In-App User Actions from Mobile Web Logs</title>
+      <link>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding the predictability of user demographics from cyber-physical-social behaviours in indoor retail spaces</title>
+      <link>https://kaiqinchi.github.io/publication/ren-2018-understanding/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/ren-2018-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling officer problem: Managing car parking violations efficiently using sensor data</title>
+      <link>https://kaiqinchi.github.io/publication/shao-2017-traveling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/shao-2017-traveling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
