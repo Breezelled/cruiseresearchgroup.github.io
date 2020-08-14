@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arian Prabowo | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/arian-prabowo/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/arian-prabowo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arian Prabowo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Arian Prabowo</title>
+      <link>https://kaiqinchi.github.io/authors/arian-prabowo/</link>
+    </image>
+    
+    <item>
+      <title>COLTRANE: ConvolutiOnaL TRAjectory NEtwork for Deep Map Inference</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confsensys-prabowo-k-0-s-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confsensys-prabowo-k-0-s-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLTRANE: ConvolutiOnaL TRAjectory NEtwork for Deep Map Inference</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1909-11048/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1909-11048/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1911-01605/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1911-01605/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

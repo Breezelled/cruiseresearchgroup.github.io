@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sue Lynn Choy | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/sue-lynn-choy/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/sue-lynn-choy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sue Lynn Choy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Sue Lynn Choy</title>
+      <link>https://kaiqinchi.github.io/authors/sue-lynn-choy/</link>
+    </image>
+    
+    <item>
+      <title>Transafe: a crowdsourced mobile platform for crime and safety perception management</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confistas-hamilton-scc-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confistas-hamilton-scc-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

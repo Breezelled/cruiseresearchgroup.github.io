@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moustafa Youssef | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/moustafa-youssef/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/moustafa-youssef/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moustafa Youssef</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Moustafa Youssef</title>
+      <link>https://kaiqinchi.github.io/authors/moustafa-youssef/</link>
+    </image>
+    
+    <item>
+      <title>BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-nqys-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-nqys-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Opened the Room? Device-Free Person Identification Using Bluetooth Signals in Door Access</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confithings-shao-sny-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confithings-shao-sny-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

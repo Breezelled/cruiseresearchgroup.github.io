@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/publication_types/1/</link>
       <atom:link href="https://kaiqinchi.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,50 +13,522 @@
     </image>
     
     <item>
-      <title>Improving Experience Sampling with Multi-View User-Driven Annotation Prediction</title>
-      <link>https://kaiqinchi.github.io/publication/liono-2019-improving/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/liono-2019-improving/</guid>
+      <title>Deep Learning Assisted Memetic Algorithm for Shortest Route Problems</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficc-s-turky-r-0-sbs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficc-s-turky-r-0-sbs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Task Recognition: Towards Enabling Productivity Assistance in Daily Life</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmir-liono-rsrsstsbw-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmir-liono-rsrsstsbw-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Predictive Patrolling and Routing with Mobility and Emergency Calls Data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficwsm-rumi-0-s-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficwsm-rumi-0-s-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation Embedding for Personalised Translation-Based POI Recommendation</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpakdd-wang-srk-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpakdd-wang-srk-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLTRANE: ConvolutiOnaL TRAjectory NEtwork for Deep Map Inference</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confsensys-prabowo-k-0-s-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confsensys-prabowo-k-0-s-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Experience Sampling with Multi-view User-driven Annotation Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-liono-sbkq-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-liono-sbkq-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning About Work Tasks to Inform Intelligent Assistant Design</title>
-      <link>https://kaiqinchi.github.io/publication/trippas-2019-learning/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/trippas-2019-learning/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-confchiir-trippas-ssabbwlr-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confchiir-trippas-ssabbwlr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OccuSpace: Towards a Robust Occupancy Prediction System for Activity Based Workplace</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-plsrckrs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-plsrckrs-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
-      <link>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-0006-scqmf-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-0006-scqmf-19/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Evolutionary multi-objective ensemble learning for multivariate electricity consumption prediction</title>
-      <link>https://kaiqinchi.github.io/publication/song-2018-evolutionary/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/song-2018-evolutionary/</guid>
+      <title>CoAcT: A Framework for Context-Aware Trip Planning Using Active Transport</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-hs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-hs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven occupant modeling strategies and digital tools enabled by IEA EBC annex 79: poster abstract</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confsensys-kjaergaard-dcsya-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confsensys-kjaergaard-dcsya-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary Multi-objective Ensemble Learning for Multivariate Electricity Consumption Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confijcnn-song-qs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confijcnn-song-qs-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying In-App User Actions from Mobile Web Logs</title>
-      <link>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpakdd-priyogi-ssctr-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpakdd-priyogi-ssctr-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mining user behavioral rules from smartphone data through association analysis</title>
-      <link>https://kaiqinchi.github.io/publication/sarker-2018-mining/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/sarker-2018-mining/</guid>
+      <title>Inferring Transportation Mode and Human Activity from Mobile Sensing in Daily Life</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-aqs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-aqs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining User Behavioral Rules from Smartphone Data Through Association Analysis</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpakdd-sarker-s-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpakdd-sarker-s-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parking Availability Prediction with Long Short Term Memory Model</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgpc-shao-zgqcs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgpc-shao-zgqcs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Citywide Passenger Demand via Reinforcement Learning from Spatio-Temporal Dynamics</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-ning-y-0-bsh-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-ning-y-0-bsh-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProMETheus: An Intelligent Mobile Voice Meeting Minutes System</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liu-wwslsdd-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liu-wwslsdd-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shopping intent recognition and location prediction from cyber-physical activities via wi-fi logs</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confsensys-kaur-srcts-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confsensys-kaur-srcts-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theft prediction with individual risk factor of visitors</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgis-rumi-ds-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgis-rumi-ds-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated density-based clustering of spatial urban data for interactive data exploration</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confinfocom-rosalina-ss-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confinfocom-rosalina-ss-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA-HOC: semi-supervised domain adaptation for room occupancy prediction using CO(_mbox2) sensor data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confsensys-ang-sh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confsensys-ang-sh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full trajectory prediction: what will you do the rest of the day?</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confhuc-sadri-sr-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confhuc-sadri-sr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-resolution Selective Ensemble Extreme Learning Machine for Electricity Consumption Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficonip-song-qs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficonip-song-qs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Imbalanced Taxi and Passenger Queue Contexts in Airport</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpacis-rahaman-hs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpacis-rahaman-hs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the city foot traffic with pedestrian sensor data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-wang-lms-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-wang-lms-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queue Context Prediction Using Taxi Driver Knowledge</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confkcap-rahaman-hs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confkcap-rahaman-hs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SD-HOC: Seasonal Decomposition Algorithm for Mining Lagged Time Series</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confausdm-ang-sh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confausdm-ang-sh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Opened the Room? Device-Free Person Identification Using Bluetooth Signals in Door Access</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confithings-shao-sny-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confithings-shao-sny-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoJammin&#39;: Designing Progression in Traffic and Music</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confautomotive-ui-krome-lsgs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confautomotive-ui-krome-lsgs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoSDEO 2016: Contact-free ambient sensing - Welcome and committees: Welcome message from the CoSDEO 2016 workshop co-chairs</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-sx-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-sx-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human occupancy recognition with multivariate ambient sensors</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-ang-sh-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-ang-sh-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring passers-by engagement with AmPost: a printed interactive audio poster</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confozchi-liono-vks-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confozchi-liono-vks-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate electricity consumption prediction with Extreme Learning Machine</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confijcnn-song-qs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confijcnn-song-qs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal time window for temporal segmentation of sensor streams in multi-activity recognition</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-qs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-qs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SECC: Simultaneous extraction of context and community from pervasive signals</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-nguyen-nsp-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-nguyen-nsp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart cities: Intelligent environments and dumb people? Panel summary</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-zambonelli-mkls-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-zambonelli-mkls-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topical Event Detection on Twitter</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confadc-cui-zzs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confadc-cui-zzs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urban HCI: (Re)adapting the City Together</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confac-mdis-mascio-cas-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confac-mdis-mascio-cas-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UTE: A Ubiquitous Data Exploration Platform for Mobile Sensing Experiments</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmdm-liono-njs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmdm-liono-njs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Energy-Efficient Inter-organizational Wireless Sensor Data Collection Framework</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficws-chang-ldssll-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficws-chang-ldssll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic evolution with Genetic Programming for Traveling Thief Problem</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confcec-mei-lsy-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confcec-mei-lsy-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization Oriented Spatiotemporal Urban Data Management and Retrieval</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confcikm-liono-ss-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confcikm-liono-ss-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Day type classification using cell tower connectivity data from smartphones</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmum-sadri-s-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmum-sadri-s-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design and evaluation of smart wearable undergarment for monitoring physiological extremes in firefighting</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confiswc-salim-bphf-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confiswc-salim-bphf-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EnviS Tag, Scan, View: A Location-Based App for Visualizing Spatio-temporal Data from Sensor Cloud</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmdm-salim-ppsws-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmdm-salim-ppsws-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic Programming for Channel Selection from Multi-stream Sensor Data with Application on Learning Risky Driving Behaviours</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confseal-dau-sxsc-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confseal-dau-sxsc-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Navigating multiple augmented reality overlays through occlusion-based triggers</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmum-thakar-sg-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmum-thakar-sg-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phone based fall detection by genetic programming</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmum-dau-sshh-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmum-dau-sshh-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VDIM: vector-based diffusion and interpolation matrix for computing region-based crowdsourced ratings: towards safe route selection for human navigation</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmum-elsmore-ssh-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmum-elsmore-ssh-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization of wireless sensor networks using ZigBee&#39;s Received Signal Strength Indicator (RSSI) for indoor localization and tracking</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-wsppsw-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-wsppsw-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emoTicSpace: when the built environments get emotional..</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confhuc-salim-k-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confhuc-salim-k-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Risky Driver Behaviours from Multi-Channel Data Streams Using Genetic Programming</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confausai-xie-ssbsb-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confausai-xie-ssbsb-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lumina: a soft kinetic material for morphing architectural skins and organic user interfaces</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confhuc-khoo-s-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confhuc-khoo-s-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transafe: a crowdsourced mobile platform for crime and safety perception management</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confistas-hamilton-scc-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confistas-hamilton-scc-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Openness: Evaluating Parameters of Parametric Modeling Tools to Support Creativity and Multidisciplinary Design Integration</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficcsa-salim-b-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficcsa-salim-b-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Adaptive Mobile Mashups: Opportunities for Designing Effective Persuasive Technology on the Road</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confaina-salim-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confaina-salim-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Road Intersections as Pervasive Computing Environments: Towards a Multiagent Real-Time Collision Warning System</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-cil-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-cil-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collision Pattern Modeling and Real-Time Collision Detection at Road Intersections</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confitsc-salim-lr-0-k-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confitsc-salim-lr-0-k-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulated Intersection Environment and Learning of Collision and Traffic Data in the U&amp;I Aware Framework</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confuic-salim-lrk-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confuic-salim-lrk-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U&amp;I Aware: A Framework Using Data Mining and Collision Detection to Increase Awareness for Intersection Users</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confaina-salim-lrk-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confaina-salim-lrk-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Ubiquitous Data Mining Based Agent Model for Intersection Safety</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confeuc-salim-klr-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confeuc-salim-klr-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Representation of XML Schema</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confapweb-salim-pik-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confapweb-salim-pik-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UML Documentation Support for XML Schema</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confaswec-salim-pki-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confaswec-salim-pki-04/</guid>
       <description></description>
     </item>
     

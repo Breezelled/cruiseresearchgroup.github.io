@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Prohasky | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/daniel-prohasky/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/daniel-prohasky/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Prohasky</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel Prohasky</title>
+      <link>https://kaiqinchi.github.io/authors/daniel-prohasky/</link>
+    </image>
+    
+    <item>
+      <title>Design and evaluation of smart wearable undergarment for monitoring physiological extremes in firefighting</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confiswc-salim-bphf-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confiswc-salim-bphf-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

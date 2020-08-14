@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/bradley-feest/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/bradley-feest/index.xml" rel="self" type="application/rss+xml" />
     <description>Bradley Feest</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Bradley Feest</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1911-01605/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1911-01605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
-      <link>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-0006-scqmf-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-0006-scqmf-19/</guid>
       <description></description>
     </item>
     

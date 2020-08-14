@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jane Burry | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/jane-burry/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/jane-burry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jane Burry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Jane Burry</title>
+      <link>https://kaiqinchi.github.io/authors/jane-burry/</link>
+    </image>
+    
+    <item>
+      <title>Form fostering: A novel design approach for interacting with parametric models in the embodied virtuality</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsitcon-salim-mb-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsitcon-salim-mb-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Openness: Evaluating Parameters of Parametric Modeling Tools to Support Creativity and Multidisciplinary Design Integration</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficcsa-salim-b-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficcsa-salim-b-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

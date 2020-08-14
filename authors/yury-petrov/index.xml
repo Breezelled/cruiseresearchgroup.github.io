@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yury Petrov | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/yury-petrov/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/yury-petrov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yury Petrov</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Yury Petrov</title>
+      <link>https://kaiqinchi.github.io/authors/yury-petrov/</link>
+    </image>
+    
+    <item>
+      <title>EnviS Tag, Scan, View: A Location-Based App for Visualizing Spatio-temporal Data from Sensor Cloud</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmdm-salim-ppsws-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmdm-salim-ppsws-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization of wireless sensor networks using ZigBee&#39;s Received Signal Strength Indicator (RSSI) for indoor localization and tracking</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-wsppsw-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-wsppsw-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

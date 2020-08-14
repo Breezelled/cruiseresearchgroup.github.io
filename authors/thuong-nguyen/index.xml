@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/thuong-nguyen/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/thuong-nguyen/index.xml" rel="self" type="application/rss+xml" />
     <description>Thuong Nguyen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Thuong Nguyen</title>
@@ -14,9 +14,25 @@
     
     <item>
       <title>QDaS: Quality driven data summarisation for effective storage management in Internet of Things</title>
-      <link>https://kaiqinchi.github.io/publication/liono-2019-qdas/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/liono-2019-qdas/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsjpdc-liono-jqns-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsjpdc-liono-jqns-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-nqys-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-nqys-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Opened the Room? Device-Free Person Identification Using Bluetooth Signals in Door Access</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confithings-shao-sny-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confithings-shao-sny-17/</guid>
       <description></description>
     </item>
     

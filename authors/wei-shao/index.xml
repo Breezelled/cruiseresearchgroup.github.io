@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/wei-shao/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/wei-shao/index.xml" rel="self" type="application/rss+xml" />
     <description>Wei Shao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Wei Shao</title>
@@ -13,42 +13,194 @@
     </image>
     
     <item>
-      <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
-      <link>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</guid>
+      <title>Deep Learning Assisted Memetic Algorithm for Shortest Route Problems</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficc-s-turky-r-0-sbs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficc-s-turky-r-0-sbs-20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Predicting Personality Traits From Physical Activity Intensity</title>
-      <link>https://kaiqinchi.github.io/publication/gao-2019-predicting/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/gao-2019-predicting/</guid>
+      <title>FADACS: A Few-shot Adversarial Domain Adaptation Architecture for Context-Aware Parking Availability Sensing</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-08551/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-08551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>G-CREWE: Graph CompREssion With Embedding for Network Alignment</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-16208/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-16208/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating LSTM Auto-Encoders in Optimizations to Solve Parking Officer Patrolling Problem</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalstsas-shao-tzqhcs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalstsas-shao-tzqhcs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>n-Gage: Predicting in-class Emotional, Behavioural and Cognitive Engagement in the Wild</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-04831/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-04831/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Predictive Patrolling and Routing with Mobility and Emergency Calls Data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficwsm-rumi-0-s-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficwsm-rumi-0-s-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartMeeting: An Novel Mobile Voice Meeting Minutes Generation and Analysis System</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsmonet-liu-lwswdls-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsmonet-liu-lwswdls-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving multiple travelling officers problem with population-based optimization algorithms</title>
-      <link>https://kaiqinchi.github.io/publication/qin-2019-solving/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/qin-2019-solving/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsnca-qin-srcs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsnca-qin-srcs-20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>What will you do for the rest of the day?: An approach to continuous trajectory prediction</title>
-      <link>https://kaiqinchi.github.io/publication/sadri-2018-will/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/sadri-2018-will/</guid>
+      <title>Transfer Learning for Thermal Comfort Prediction in Multiple Cities</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2004-14382/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2004-14382/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Traveling officer problem: Managing car parking violations efficiently using sensor data</title>
-      <link>https://kaiqinchi.github.io/publication/shao-2017-traveling/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/shao-2017-traveling/</guid>
+      <title>Approximating Optimisation Solutions for Travelling Officer Problem with Customised Deep Learning Network</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1903-03348/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1903-03348/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLTRANE: ConvolutiOnaL TRAjectory NEtwork for Deep Map Inference</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confsensys-prabowo-k-0-s-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confsensys-prabowo-k-0-s-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COLTRANE: ConvolutiOnaL TRAjectory NEtwork for Deep Map Inference</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1909-11048/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1909-11048/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1911-01605/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1911-01605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-0006-scqmf-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-0006-scqmf-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Personality Traits From Physical Activity Intensity</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscomputer-gao-ss-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscomputer-gao-ss-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Personality Traits from Physical Activity Intensity</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1906-07864/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1906-07864/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-nqys-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-nqys-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parking Availability Prediction with Long Short Term Memory Model</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgpc-shao-zgqcs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgpc-shao-zgqcs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProMETheus: An Intelligent Mobile Voice Meeting Minutes System</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liu-wwslsdd-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liu-wwslsdd-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-sgdc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-sgdc-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Will You Do for the Rest of the Day?: An Approach to Continuous Trajectory Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsimwut-sadri-srskm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsimwut-sadri-srskm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Who Opened the Room? Device-Free Person Identification Using Bluetooth Signals in Door Access</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confithings-shao-sny-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confithings-shao-sny-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clustering Big Spatiotemporal-Interval Data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalstbd-shao-ssb-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalstbd-shao-ssb-16/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Nolan | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/sam-nolan/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/sam-nolan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Nolan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Sam Nolan</title>
+      <link>https://kaiqinchi.github.io/authors/sam-nolan/</link>
+    </image>
+    
+    <item>
+      <title>Exploring the Impact of COVID-19 Lockdown on Social Roles and Emotions while Working from Home</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-12353/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-12353/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

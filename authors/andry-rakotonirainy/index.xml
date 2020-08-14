@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andry Rakotonirainy | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/andry-rakotonirainy/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/andry-rakotonirainy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andry Rakotonirainy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Andry Rakotonirainy</title>
+      <link>https://kaiqinchi.github.io/authors/andry-rakotonirainy/</link>
+    </image>
+    
+    <item>
+      <title>Collision Pattern Modeling and Real-Time Collision Detection at Road Intersections</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confitsc-salim-lr-0-k-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confitsc-salim-lr-0-k-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulated Intersection Environment and Learning of Collision and Traffic Data in the U&amp;I Aware Framework</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confuic-salim-lrk-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confuic-salim-lrk-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>U&amp;I Aware: A Framework Using Data Mining and Collision Detection to Increase Awareness for Intersection Users</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confaina-salim-lrk-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confaina-salim-lrk-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Ubiquitous Data Mining Based Agent Model for Intersection Safety</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confeuc-salim-klr-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confeuc-salim-klr-05/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

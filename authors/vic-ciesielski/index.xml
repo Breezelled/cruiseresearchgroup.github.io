@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vic Ciesielski | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/vic-ciesielski/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/vic-ciesielski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vic Ciesielski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Vic Ciesielski</title>
+      <link>https://kaiqinchi.github.io/authors/vic-ciesielski/</link>
+    </image>
+    
+    <item>
+      <title>Genetic Programming for Channel Selection from Multi-stream Sensor Data with Application on Learning Risky Driving Behaviours</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confseal-dau-sxsc-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confseal-dau-sxsc-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zahraa S. Abdallah | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/zahraa-s.-abdallah/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/zahraa-s.-abdallah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zahraa S. Abdallah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Zahraa S. Abdallah</title>
+      <link>https://kaiqinchi.github.io/authors/zahraa-s.-abdallah/</link>
+    </image>
+    
+    <item>
+      <title>Inferring Transportation Mode and Human Activity from Mobile Sensing in Daily Life</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-aqs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-aqs-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfgang De Meuter | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/wolfgang-de-meuter/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/wolfgang-de-meuter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wolfgang De Meuter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Wolfgang De Meuter</title>
+      <link>https://kaiqinchi.github.io/authors/wolfgang-de-meuter/</link>
+    </image>
+    
+    <item>
+      <title>Algorithmic Governance in Smart Cities: The Conundrum and the Potential of Pervasive Computing Solutions</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalstasm-zambonelli-slmk-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalstasm-zambonelli-slmk-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smart cities: Intelligent environments and dumb people? Panel summary</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-zambonelli-mkls-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-zambonelli-mkls-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

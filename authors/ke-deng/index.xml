@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ke Deng | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/ke-deng/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/ke-deng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ke Deng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Ke Deng</title>
+      <link>https://kaiqinchi.github.io/authors/ke-deng/</link>
+    </image>
+    
+    <item>
+      <title>Crime event prediction with dynamic features</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsepjds-rumi-ds-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsepjds-rumi-ds-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theft prediction with individual risk factor of visitors</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgis-rumi-ds-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgis-rumi-ds-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

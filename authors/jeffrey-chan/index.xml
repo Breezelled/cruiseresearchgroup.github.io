@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/jeffrey-chan/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/jeffrey-chan/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeffrey Chan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Jeffrey Chan</title>
@@ -13,42 +13,130 @@
     </image>
     
     <item>
-      <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
-      <link>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/shao-2019-onlineairtrajclus/</guid>
+      <title>An Ambient-Physical System to Infer Concentration in Open-plan Workplace</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2005-13535/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2005-13535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating LSTM Auto-Encoders in Optimizations to Solve Parking Officer Patrolling Problem</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalstsas-shao-tzqhcs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalstsas-shao-tzqhcs-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Solving multiple travelling officers problem with population-based optimization algorithms</title>
-      <link>https://kaiqinchi.github.io/publication/qin-2019-solving/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/qin-2019-solving/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsnca-qin-srcs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsnca-qin-srcs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximating Optimisation Solutions for Travelling Officer Problem with Customised Deep Learning Network</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1903-03348/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1903-03348/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgis-0006-pztkc-0-fs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flight Delay Prediction using Airport Situational Awareness Map</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1911-01605/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1911-01605/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OccuSpace: Towards a Robust Occupancy Prediction System for Activity Based Workplace</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-plsrckrs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-plsrckrs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OnlineAirTrajClus: An Online Aircraft Trajectory Clustering for Tarmac Situation Awareness</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-0006-scqmf-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-0006-scqmf-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Location-Query-Browse Graph for Contextual Recommendation</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalstkde-ren-tsccs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalstkde-ren-tsccs-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identifying In-App User Actions from Mobile Web Logs</title>
-      <link>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/priyogi-2018-identifying/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpakdd-priyogi-ssctr-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpakdd-priyogi-ssctr-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parking Availability Prediction with Long Short Term Memory Model</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confgpc-shao-zgqcs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confgpc-shao-zgqcs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shopping intent recognition and location prediction from cyber-physical activities via wi-fi logs</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confsensys-kaur-srcts-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confsensys-kaur-srcts-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traveling Officer Problem: Managing Car Parking Violations Efficiently Using Sensor Data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-sgdc-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-sgdc-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding the predictability of user demographics from cyber-physical-social behaviours in indoor retail spaces</title>
-      <link>https://kaiqinchi.github.io/publication/ren-2018-understanding/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/ren-2018-understanding/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsepjds-ren-tscs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsepjds-ren-tscs-18/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Traveling officer problem: Managing car parking violations efficiently using sensor data</title>
-      <link>https://kaiqinchi.github.io/publication/shao-2017-traveling/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/shao-2017-traveling/</guid>
+      <title>D-Log: A WiFi Log-based differential scheme for enhanced indoor localization with single RSSI source and infrequent sampling rate</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalspercom-ren-stbcqs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalspercom-ren-stbcqs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shrink: Distance preserving graph compression</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsis-sadri-srzcs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsis-sadri-srzcs-17/</guid>
       <description></description>
     </item>
     

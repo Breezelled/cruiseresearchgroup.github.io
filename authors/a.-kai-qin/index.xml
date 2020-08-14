@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Kai Qin | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/a.-kai-qin/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/a.-kai-qin/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Kai Qin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Kai Qin</title>
+      <link>https://kaiqinchi.github.io/authors/a.-kai-qin/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary model construction for electricity consumption prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsnca-song-qs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsnca-song-qs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Experience Sampling with Multi-view User-driven Annotation Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-liono-sbkq-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-liono-sbkq-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QDaS: Quality driven data summarisation for effective storage management in Internet of Things</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsjpdc-liono-jqns-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsjpdc-liono-jqns-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BLEDoorGuard: A Device-Free Person Identification Framework Using Bluetooth Signals for Door Access</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-nqys-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsiotj-shao-nqys-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Transportation Mode and Human Activity from Mobile Sensing in Daily Life</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-aqs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-aqs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-resolution Selective Ensemble Extreme Learning Machine for Electricity Consumption Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficonip-song-qs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficonip-song-qs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate electricity consumption prediction with Extreme Learning Machine</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confijcnn-song-qs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confijcnn-song-qs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal time window for temporal segmentation of sensor streams in multi-activity recognition</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-qs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-qs-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/margaret-hamilton/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/margaret-hamilton/index.xml" rel="self" type="application/rss+xml" />
     <description>Margaret Hamilton</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Margaret Hamilton</title>
@@ -13,26 +13,130 @@
     </image>
     
     <item>
-      <title>A Scalable Room Occupancy Prediction with Transferable Time Series Decomposition of CO 2 Sensor Data</title>
-      <link>https://kaiqinchi.github.io/publication/arief-2018-scalable/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/arief-2018-scalable/</guid>
+      <title>Using Big Spatial Data for Planning User Mobility</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-referencebdt-rahaman-hs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-referencebdt-rahaman-hs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scalable Room Occupancy Prediction with Transferable Time Series Decomposition of CO(_mbox2) Sensor Data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalstosn-ang-hs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalstosn-ang-hs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoAcT: A Framework for Context-Aware Trip Planning Using Active Transport</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-hs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-hs-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RUP: Large Room Utilisation Prediction with carbon dioxide sensor</title>
-      <link>https://kaiqinchi.github.io/publication/arief-2018-rup/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/arief-2018-rup/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalspercom-ang-hs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalspercom-ang-hs-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wait Time Prediction for Airport Taxis Using Weighted Nearest Neighbor Regression</title>
-      <link>https://kaiqinchi.github.io/publication/rahaman-2018-wait/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/rahaman-2018-wait/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsaccess-rahaman-rhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsaccess-rahaman-rhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAPRA: A contour-based accessible path routing algorithm</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsisci-rahaman-mhs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsisci-rahaman-mhs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CD-HOC: Indoor Human Occupancy Counting using Carbon Dioxide Sensor Data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorr-ang-sh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorr-ang-sh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DA-HOC: semi-supervised domain adaptation for room occupancy prediction using CO(_mbox2) sensor data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confsensys-ang-sh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confsensys-ang-sh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Imbalanced Taxi and Passenger Queue Contexts in Airport</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpacis-rahaman-hs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpacis-rahaman-hs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queue Context Prediction Using Taxi Driver Knowledge</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confkcap-rahaman-hs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confkcap-rahaman-hs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SD-HOC: Seasonal Decomposition Algorithm for Mining Lagged Time Series</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confausdm-ang-sh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confausdm-ang-sh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human occupancy recognition with multivariate ambient sensors</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-ang-sh-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-ang-sh-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phone based fall detection by genetic programming</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmum-dau-sshh-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmum-dau-sshh-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VDIM: vector-based diffusion and interpolation matrix for computing region-based crowdsourced ratings: towards safe route selection for human navigation</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmum-elsmore-ssh-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmum-elsmore-ssh-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transafe: a crowdsourced mobile platform for crime and safety perception management</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confistas-hamilton-scc-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confistas-hamilton-scc-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transafe: a crowdsourced mobile platform for crime and safety perception management</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalssigcas-hamilton-scc-11/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalssigcas-hamilton-scc-11/</guid>
       <description></description>
     </item>
     

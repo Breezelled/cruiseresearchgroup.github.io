@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/amin-sadri/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/amin-sadri/index.xml" rel="self" type="application/rss+xml" />
     <description>Amin Sadri</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Amin Sadri</title>
@@ -14,17 +14,49 @@
     
     <item>
       <title>Unsupervised online change point detection in high-dimensional time series</title>
-      <link>https://kaiqinchi.github.io/publication/zameni-2019-unsupervised/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/zameni-2019-unsupervised/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalskais-zameni-sgmslr-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalskais-zameni-sgmslr-20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>What will you do for the rest of the day?: An approach to continuous trajectory prediction</title>
-      <link>https://kaiqinchi.github.io/publication/sadri-2018-will/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/sadri-2018-will/</guid>
+      <title>What Will You Do for the Rest of the Day?: An Approach to Continuous Trajectory Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsimwut-sadri-srskm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsimwut-sadri-srskm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full trajectory prediction: what will you do the rest of the day?</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confhuc-sadri-sr-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confhuc-sadri-sr-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information gain-based metric for recognizing transitions in human activities</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalspercom-sadri-rs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalspercom-sadri-rs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shrink: Distance preserving graph compression</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsis-sadri-srzcs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsis-sadri-srzcs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Day type classification using cell tower connectivity data from smartphones</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmum-sadri-s-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmum-sadri-s-14/</guid>
       <description></description>
     </item>
     

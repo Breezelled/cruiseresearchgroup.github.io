@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sean Morrison | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/sean-morrison/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/sean-morrison/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sean Morrison</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Sean Morrison</title>
+      <link>https://kaiqinchi.github.io/authors/sean-morrison/</link>
+    </image>
+    
+    <item>
+      <title>Approximating Optimisation Solutions for Travelling Officer Problem with Customised Deep Learning Network</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1903-03348/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1903-03348/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

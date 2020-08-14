@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Indrawan | CRUISE</title>
+    <link>https://kaiqinchi.github.io/authors/maria-indrawan/</link>
+      <atom:link href="https://kaiqinchi.github.io/authors/maria-indrawan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Indrawan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +1100</lastBuildDate>
+    <image>
+      <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
+      <title>Maria Indrawan</title>
+      <link>https://kaiqinchi.github.io/authors/maria-indrawan/</link>
+    </image>
+    
+    <item>
+      <title>Road Intersections as Pervasive Computing Environments: Towards a Multiagent Real-Time Collision Warning System</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-cil-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-salim-cil-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphical Representation of XML Schema</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confapweb-salim-pik-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confapweb-salim-pik-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UML Documentation Support for XML Schema</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confaswec-salim-pki-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confaswec-salim-pki-04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

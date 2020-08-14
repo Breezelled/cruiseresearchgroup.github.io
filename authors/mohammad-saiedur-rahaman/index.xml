@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/mohammad-saiedur-rahaman/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/mohammad-saiedur-rahaman/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Saiedur Rahaman</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Mohammad Saiedur Rahaman</title>
@@ -13,10 +13,114 @@
     </image>
     
     <item>
+      <title>An Ambient-Physical System to Infer Concentration in Open-plan Workplace</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2005-13535/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2005-13535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Assisted Memetic Algorithm for Shortest Route Problems</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-conficc-s-turky-r-0-sbs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-conficc-s-turky-r-0-sbs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FADACS: A Few-shot Adversarial Domain Adaptation Architecture for Context-Aware Parking Availability Sensing</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-08551/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-08551/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Task Recognition: Towards Enabling Productivity Assistance in Daily Life</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmir-liono-rsrsstsbw-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmir-liono-rsrsstsbw-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>n-Gage: Predicting in-class Emotional, Behavioural and Cognitive Engagement in the Wild</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-04831/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-04831/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seating preference analysis for hybrid workplaces</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-15807/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-15807/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Thermal Comfort Prediction in Multiple Cities</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2004-14382/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2004-14382/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OccuSpace: Towards a Robust Occupancy Prediction System for Activity Based Workplace</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-plsrckrs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-plsrckrs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Big Spatial Data for Planning User Mobility</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-referencebdt-rahaman-hs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-referencebdt-rahaman-hs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CoAcT: A Framework for Context-Aware Trip Planning Using Active Transport</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-hs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-hs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wait Time Prediction for Airport Taxis Using Weighted Nearest Neighbor Regression</title>
-      <link>https://kaiqinchi.github.io/publication/rahaman-2018-wait/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/rahaman-2018-wait/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsaccess-rahaman-rhs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsaccess-rahaman-rhs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CAPRA: A contour-based accessible path routing algorithm</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsisci-rahaman-mhs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsisci-rahaman-mhs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Imbalanced Taxi and Passenger Queue Contexts in Airport</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpacis-rahaman-hs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpacis-rahaman-hs-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Queue Context Prediction Using Taxi Driver Knowledge</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confkcap-rahaman-hs-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confkcap-rahaman-hs-17/</guid>
       <description></description>
     </item>
     

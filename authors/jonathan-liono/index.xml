@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/jonathan-liono/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/jonathan-liono/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Liono</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Jonathan Liono</title>
@@ -13,26 +13,122 @@
     </image>
     
     <item>
-      <title>Improving Experience Sampling with Multi-View User-Driven Annotation Prediction</title>
-      <link>https://kaiqinchi.github.io/publication/liono-2019-improving/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/liono-2019-improving/</guid>
+      <title>An Ambient-Physical System to Infer Concentration in Open-plan Workplace</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2005-13535/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2005-13535/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent Task Recognition: Towards Enabling Productivity Assistance in Daily Life</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmir-liono-rsrsstsbw-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmir-liono-rsrsstsbw-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SmartMeeting: An Novel Mobile Voice Meeting Minutes Generation and Analysis System</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsmonet-liu-lwswdls-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsmonet-liu-lwswdls-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Experience Sampling with Multi-view User-driven Annotation Prediction</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-liono-sbkq-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-liono-sbkq-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning About Work Tasks to Inform Intelligent Assistant Design</title>
-      <link>https://kaiqinchi.github.io/publication/trippas-2019-learning/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/trippas-2019-learning/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-confchiir-trippas-ssabbwlr-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confchiir-trippas-ssabbwlr-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OccuSpace: Towards a Robust Occupancy Prediction System for Activity Based Workplace</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-plsrckrs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confpercom-rahaman-plsrckrs-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QDaS: Quality driven data summarisation for effective storage management in Internet of Things</title>
-      <link>https://kaiqinchi.github.io/publication/liono-2019-qdas/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/liono-2019-qdas/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalsjpdc-liono-jqns-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalsjpdc-liono-jqns-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Transportation Mode and Human Activity from Mobile Sensing in Daily Life</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-aqs-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-aqs-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ProMETheus: An Intelligent Mobile Voice Meeting Minutes System</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liu-wwslsdd-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liu-wwslsdd-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting the city foot traffic with pedestrian sensor data</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-wang-lms-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-wang-lms-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoJammin&#39;: Designing Progression in Traffic and Music</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confautomotive-ui-krome-lsgs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confautomotive-ui-krome-lsgs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring passers-by engagement with AmPost: a printed interactive audio poster</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confozchi-liono-vks-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confozchi-liono-vks-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal time window for temporal segmentation of sensor streams in multi-activity recognition</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-qs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmobiquitous-liono-qs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UTE: A Ubiquitous Data Exploration Platform for Mobile Sensing Experiments</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confmdm-liono-njs-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confmdm-liono-njs-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization Oriented Spatiotemporal Urban Data Management and Retrieval</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-confcikm-liono-ss-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-confcikm-liono-ss-15/</guid>
       <description></description>
     </item>
     

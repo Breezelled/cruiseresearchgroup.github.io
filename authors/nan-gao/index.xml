@@ -5,7 +5,7 @@
     <link>https://kaiqinchi.github.io/authors/nan-gao/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/nan-gao/index.xml" rel="self" type="application/rss+xml" />
     <description>Nan Gao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Nan Gao</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>n-Gage: Predicting in-class Emotional, Behavioural and Cognitive Engagement in the Wild</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-04831/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2007-04831/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transfer Learning for Thermal Comfort Prediction in Multiple Cities</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2004-14382/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-2004-14382/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicting Personality Traits From Physical Activity Intensity</title>
-      <link>https://kaiqinchi.github.io/publication/gao-2019-predicting/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/publication/gao-2019-predicting/</guid>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscomputer-gao-ss-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscomputer-gao-ss-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Personality Traits from Physical Activity Intensity</title>
+      <link>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1906-07864/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/publication/dblp-journalscorrabs-1906-07864/</guid>
       <description></description>
     </item>
     
