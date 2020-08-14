@@ -13,12 +13,11 @@
     </image>
     
     <item>
-      <title></title>
+      <title>Kai_Qin</title>
       <link>https://kaiqinchi.github.io/authors/kai_qin/</link>
       <pubDate>Wed, 15 Jan 2020 15:43:16 +1100</pubDate>
       <guid>https://kaiqinchi.github.io/authors/kai_qin/</guid>
-      <description>&lt;p&gt;(Kyle) Kai Qin is current a Phd candidate in RMIT University. He received the Bachelor degree in Computer Science and Technology from Guilin University of Electronic Technology, Guilin, China, in 2010, and the Master degree in Information Technology Engineering from RMIT University, Melbourne, Australia, in 2015. He was previous a professional software engineer who worked in Melbourne, Australia. His main areas of research interest are data analytics, machine Learning, and optimisation in graph alignment or embedding.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -416,17 +415,17 @@
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/ali_ali/</link>
+      <link>https://kaiqinchi.github.io/authors/ali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/ali_ali/</guid>
+      <guid>https://kaiqinchi.github.io/authors/ali/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/arian_prabowo/</link>
+      <link>https://kaiqinchi.github.io/authors/arian/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/arian_prabowo/</guid>
+      <guid>https://kaiqinchi.github.io/authors/arian/</guid>
       <description>&lt;p&gt;I have a degree in Physics, Physiology, Teaching, and now, doing Computer Science. My research interest is in designing novel deep learning architectures to deal with spatiotemporal data. More importantly, I think blue cheese is best eaten with white chocolate.&lt;/p&gt;
 </description>
     </item>
@@ -444,10 +443,26 @@
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/hui_song/</link>
+      <link>https://kaiqinchi.github.io/authors/futoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/hui_song/</guid>
-      <description>&lt;p&gt;I finished my PhD in School of Science, Computer Science and IT, RMIT University. My research interest is in relation to computational intelligence that includes evolutionary computation, machine learning and data mining, and applications. I have worked on single-objective optimization, multi-objective optimization, single-objective multi-task optimization, multi-objective multi-task optimization, multivariate time series analysis/prediction/classification, energy consumption prediction, air quality prediction, ensemble learning, predictive modeling, statistical analysis etc.&lt;/p&gt;
+      <guid>https://kaiqinchi.github.io/authors/futoon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kaiqinchi.github.io/authors/hao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/authors/hao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kaiqinchi.github.io/authors/hui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kaiqinchi.github.io/authors/hui/</guid>
+      <description>&lt;p&gt;I finished my PhD in School of Science, Computer Science and IT, RMIT University. My research interest is in relation to computational intelligence that includes evolutionary computation, machine learning and data mining, and applications. I have worked on single-objective optimization, multi-objective optimization, single-objective multi-task optimization, multi-objective multi-task optimization, multivariate time series analysis/prediction/classification, energy consumption prediction, air quality prediction, ensemble learning, predictive modelling, statistical analysis etc.&lt;/p&gt;
 </description>
     </item>
     
@@ -469,17 +484,18 @@
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/nao_gao/</link>
+      <link>https://kaiqinchi.github.io/authors/kai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/nao_gao/</guid>
-      <description></description>
+      <guid>https://kaiqinchi.github.io/authors/kai/</guid>
+      <description>&lt;p&gt;(Kyle) Kai Qin is current a Phd candidate in RMIT University. He received the Bachelor degree in Computer Science and Technology from Guilin University of Electronic Technology, Guilin, China, in 2010, and the Master degree in Information Technology Engineering from RMIT University, Melbourne, Australia, in 2015. He was previous a professional software engineer who worked in Melbourne, Australia. His main areas of research interest are data analytics, machine Learning, and optimisation in graph alignment or embedding.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/phillip/</link>
+      <link>https://kaiqinchi.github.io/authors/nao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/phillip/</guid>
+      <guid>https://kaiqinchi.github.io/authors/nao/</guid>
       <description></description>
     </item>
     
@@ -510,18 +526,18 @@
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/sichen_zhao/</link>
+      <link>https://kaiqinchi.github.io/authors/sichen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/sichen_zhao/</guid>
+      <guid>https://kaiqinchi.github.io/authors/sichen/</guid>
       <description>&lt;p&gt;I am currently a PhD candidate at RMIT University under the supervision of A/Prof. Flora Salim, Dr Jeffrey Chan and Dr Wei Shao. My research interests include Spatiotemporal Data Mining, Deep Learning of Big Trajectory Data, Interpretable Machine Learning, and how to make my cat happy.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/wei_shao/</link>
+      <link>https://kaiqinchi.github.io/authors/wei/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/wei_shao/</guid>
+      <guid>https://kaiqinchi.github.io/authors/wei/</guid>
       <description>&lt;p&gt;Wei Shao is a Research Fellow in RMIT University and finished his PhD in the RMIT, Australia. His interest research area focused on data mining, spatio-temporal data analysis and device-free activity recognition. He received the Master of Science in the University of Hong Kong. Previously, he received a BEng in Software Engineering from Xidian University, China.&lt;/p&gt;
 </description>
     </item>
