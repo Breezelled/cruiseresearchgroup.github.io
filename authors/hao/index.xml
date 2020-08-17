@@ -5,12 +5,21 @@
     <link>https://kaiqinchi.github.io/authors/hao/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/hao/index.xml" rel="self" type="application/rss+xml" />
     <description>CRUISE</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 15:43:16 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>CRUISE</title>
       <link>https://kaiqinchi.github.io/authors/hao/</link>
     </image>
+    
+    <item>
+      <title>Multi-resolution Situation Recognition for Urban-Aware Smart Assistant</title>
+      <link>https://kaiqinchi.github.io/project/multi-resolution_situation_recognition/</link>
+      <pubDate>Wed, 15 Jan 2020 15:43:16 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/project/multi-resolution_situation_recognition/</guid>
+      <description>&lt;p&gt;This research aims to develop a framework to recognise and anticipate unforeseen emerging situations, such as schedule changes, incidents, and disruptions. The project will address a significant knowledge gap by capturing and modelling unpredictability in human mobility and work routines. The outcome will be a situation recognition framework that can be applied at the individual, social group, and urban level, and at multiple locations and time scales. This should provide users with timely notifications and recommendations to resume their activities and routines. The expected benefits will be far-ranging and adaptable to many domains, from personal smart assistants to trip planning and emergency services. - ARC Discovery Project DP190101485&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

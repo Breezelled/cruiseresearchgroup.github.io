@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kaiqinchi.github.io/authors/hao/</loc>
+    <lastmod>2020-01-15T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kaiqinchi.github.io/authors/</loc>
     <lastmod>2020-01-15T15:43:16+11:00</lastmod>
   </url>
@@ -13,7 +18,12 @@
   </url>
   
   <url>
-    <loc>https://kaiqinchi.github.io/authors/kai_qin/</loc>
+    <loc>https://kaiqinchi.github.io/authors/kai-qin/</loc>
+    <lastmod>2020-01-15T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/project/multi-resolution_situation_recognition/</loc>
     <lastmod>2020-01-15T15:43:16+11:00</lastmod>
   </url>
   
@@ -1509,10 +1519,6 @@
   
   <url>
     <loc>https://kaiqinchi.github.io/authors/futoon/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kaiqinchi.github.io/authors/hao/</loc>
   </url>
   
   <url>
