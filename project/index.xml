@@ -5,12 +5,32 @@
     <link>https://kaiqinchi.github.io/project/</link>
       <atom:link href="https://kaiqinchi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 15:43:16 +1100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 15:43:16 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://kaiqinchi.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Behaviour Analytics of Indoor Occupants to Personalise Activity</title>
+      <link>https://kaiqinchi.github.io/project/behaviour_analytics_of_indoor_occupants/</link>
+      <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/project/behaviour_analytics_of_indoor_occupants/</guid>
+      <description>&lt;p&gt;This project will deploy machine learning to human behaviour and building operational data obtained through Activity Based Working (ABW), aimed at providing insights towards optimising and personalising ABW. The outcome is a cloud-based integrated platform, with tailored ABW apps, for capturing and analysing occupancy behaviour and building performance data. A rich model of workers’ movements, online activities, and social groupings will be learned from synthesising fine-grained ABW behaviours and space utilisation patterns. The web dashboard will be used by Arup to approach their work holistically, making decisions based on a clear view of the total outcomes for their clients and stakeholders, including value for money. It allows Arup to close the design feedback loop, through a deeper understanding of the impact of the engineered parameters of modern offices on ABW and building operations, enhancing the precision with which Arup prescribe solutions on multiple client contexts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Swarming: micro-flight data capture and analysis</title>
+      <link>https://kaiqinchi.github.io/project/swarming_micro-flight_data_capture/</link>
+      <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/project/swarming_micro-flight_data_capture/</guid>
+      <description>&lt;p&gt;In response to the urgent need for more site specific and vertical environmental information to inform the design of sustainable urban design, this project investigates the use of Micro Air Vehicles (drones) equipped with diverse lightweight sensing equipment to gather site specific environmental sensor data.&lt;/p&gt;
+&lt;p&gt;This multidisciplinary team of researchers from RMIT, with Aurecon, one of the world’s leading engineering, design, planning, project management and consulting company and Australian unmanned aerial vehicle specialist UAV-Australia, are proposing to research, for the first time the usage of emerging micro flight technology to gather and analyse large volume of heterogeneous sensor data, over extended time periods and locations, with the aim to inform urban design and planning, and integrate them for urban design and urban computing applications.&lt;/p&gt;
+&lt;p&gt;-Australian Research Council (ARC) Linkage project (2016-2019)&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multi-resolution Situation Recognition for Urban-Aware Smart Assistant</title>
@@ -38,6 +58,40 @@
       <guid>https://kaiqinchi.github.io/project/context_community_modelling/</guid>
       <description>&lt;p&gt;We have published our research outcomes on fundamental and practical time-series and spatio-temporal data mining and machine learning techniques which can be applied on multiple types of data from sensors, Internet of Things, and social media in the domain of smart cities, smart buildings, smart parking, and intelligent transportation systems. I have been awarded nationally competitive grants and numerous industry contracts, with the total amount awarded of over than 3M in the last 5 years. Nine out of ten of my research grants are funded collaborations with government agencies or industry, with practical applications such as indoor monitoring and analytics in university and retail environments, driving behaviour recognition, road risk analysis, and passenger movement analysis in airports. In my project with local and state governments, I developed new approaches for spatio-temporal aggregation and retrieval of urban data, and clustering heterogeneous urban data.&lt;/p&gt;
 &lt;p&gt;Our research has generated context-aware and personalised models for journey planning. Our work has generated research contributions in analysis, prediction, and personalised profiling of multiple types of trajectories (e.g. human, public transports, private cars, airplanes) from a wide range of datasets from smartphones, wireless infrastructures, sensors, and Internet of Things. We have proposed a novel contour-based accessibility aware route planning algorithm for the mobility impaired, solving the first / last mile problem while traveling on multi-modal transportation network.  We have also developed data-driven predictive trip planning models for taxi passengers and drivers. An accurate taxi wait time prediction model has been tested using large-scale taxi trajectory logs from New York City.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning for situation awareness in airport operations</title>
+      <link>https://kaiqinchi.github.io/project/deep_learning_for-situation-awareness/</link>
+      <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/project/deep_learning_for-situation-awareness/</guid>
+      <description>&lt;p&gt;This project that is funded by Northrop Grumman Corporation investigates the patterns of ground vehicles and aircraft trajectories, combining the analysis of their spatial movement behaviours and contextual information. We utilise state-of-the-art artificial intelligence and big data analytics techniques to clean, preprocess, and analyse sizeable on-ground aircraft GPS data. We also establish a context-aware system to predict the delay time of each aircraft by developing a novel Airport Traffic Complexity (ATC) model.&lt;/p&gt;
+&lt;p&gt;The outcome leads to multiple economic and security benefits for airline passengers, air traffic controllers, and airport managers. Our work provides a situational awareness map to the airport traffic controller, which reveals the potential factors that affect the traffic flow at the airport, as well as points out the hot spots and anomalous cases. Additionally, our proposed solution could inform airport managers and traffic controllers regarding the estimated delay time of flights on the tarmac at the specific airport.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microsoft RMIT Cortana Intelligence Institute</title>
+      <link>https://kaiqinchi.github.io/project/microsoft_rmit_cortana_intelligence_institute/</link>
+      <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/project/microsoft_rmit_cortana_intelligence_institute/</guid>
+      <description>&lt;p&gt;Cortana Intelligence Institute is a co-funded initiative between Microsoft Research, Cortana Research and RMIT University, which will drive the next-generation of capabilities for Microsoft’s digital assistant, Cortana.&lt;/p&gt;
+&lt;p&gt;The Institute focused on researching work-related tasks, an area that will help make Cortana a more proactive and context-aware digital assistant that truly amplifies human capabilities. Using sensors in mobile phones, the team built a complex multidimensional data set, which will be used to model and predict a person’s work-related tasks. This includes the physical activity and location of a user, their online and app behaviour, and their interactions with their social groups or peers. Microsoft’s researchers collaborated with RMIT team members on the development of algorithms that use the novel dataset to improve Cortana.&lt;/p&gt;
+&lt;p&gt;This research project contributes to a greater understanding of the contextual factors that may characterize, or even influence, the tasks being performed by professionals and non-professionals. We take rich contextual factors derived from spatial, temporal, and online activities to better understand participants’ task habits. We use repeated patterns of tasks as cues in characterizing implicit task habits. We examine task batching behaviours and predict the tasks participants are about to undertake.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Monington Peninsula Smart Parking and Amenities for High Demand Areas</title>
+      <link>https://kaiqinchi.github.io/project/monington_peninsula_smart_parking/</link>
+      <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/project/monington_peninsula_smart_parking/</guid>
+      <description>&lt;p&gt;The Mornington Peninsula Shire (MPS) will develop a Smart Technology project to address growing demand on parking and amenity facilities in towns particularly with high tourist
+attraction. There is an increasing pressure to understand the volume of pedestrians, public transport users, and road users (in particular, private vehicle drivers) throughout the major townships in MPS and meet the increasing demand.&lt;/p&gt;
+&lt;p&gt;The ability to model future scenarios will provide a basis to plan infrastructure, provide better routing recommendations, and to assist the planning of events throughout the Shire. Latest smart technology has been sourced along with high-level expertise to develop the necessary systems to gather and translate data into productive outcomes to provide better services to the community and tourists.&lt;/p&gt;
+&lt;p&gt;The targeted parking and amenities in the high demand towns have varying operations that need specific sensor types to provide the required data. Consequently, the sensors will
+require the development and implementation of a tailored system to gather the data and provide information for the community, visitors, Council service teams and planners.&lt;/p&gt;
 </description>
     </item>
     

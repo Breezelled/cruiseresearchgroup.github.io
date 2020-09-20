@@ -3,32 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kaiqinchi.github.io/authors/</loc>
+    <lastmod>2020-09-20T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/project/behaviour_analytics_of_indoor_occupants/</loc>
+    <lastmod>2020-09-20T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/</loc>
+    <lastmod>2020-09-20T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/authors/kai-qin/</loc>
+    <lastmod>2020-09-20T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/project/</loc>
+    <lastmod>2020-09-20T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/project/swarming_micro-flight_data_capture/</loc>
+    <lastmod>2020-09-20T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kaiqinchi.github.io/authors/hao/</loc>
     <lastmod>2020-01-15T15:43:16+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kaiqinchi.github.io/authors/</loc>
-    <lastmod>2020-01-15T15:43:16+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaiqinchi.github.io/</loc>
-    <lastmod>2020-01-15T15:43:16+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaiqinchi.github.io/authors/kai-qin/</loc>
-    <lastmod>2020-01-15T15:43:16+11:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kaiqinchi.github.io/project/multi-resolution_situation_recognition/</loc>
-    <lastmod>2020-01-15T15:43:16+11:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kaiqinchi.github.io/project/</loc>
     <lastmod>2020-01-15T15:43:16+11:00</lastmod>
   </url>
   
@@ -39,6 +49,21 @@
   
   <url>
     <loc>https://kaiqinchi.github.io/project/context_community_modelling/</loc>
+    <lastmod>2020-01-15T15:42:51+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/project/deep_learning_for-situation-awareness/</loc>
+    <lastmod>2020-01-15T15:42:51+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/project/microsoft_rmit_cortana_intelligence_institute/</loc>
+    <lastmod>2020-01-15T15:42:51+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/project/monington_peninsula_smart_parking/</loc>
     <lastmod>2020-01-15T15:42:51+11:00</lastmod>
   </url>
   

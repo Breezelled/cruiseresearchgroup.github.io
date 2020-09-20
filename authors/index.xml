@@ -5,12 +5,20 @@
     <link>https://kaiqinchi.github.io/authors/</link>
       <atom:link href="https://kaiqinchi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2020 15:43:16 +1100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 15:43:16 +1100</lastBuildDate>
     <image>
       <url>https://kaiqinchi.github.io/images/icon_hua992cb10085e06a51eab2da50465a284_10796_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
       <link>https://kaiqinchi.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Kai Qin</title>
+      <link>https://kaiqinchi.github.io/authors/kai-qin/</link>
+      <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/authors/kai-qin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
@@ -19,14 +27,6 @@
       <guid>https://kaiqinchi.github.io/authors/hao/</guid>
       <description>&lt;p&gt;Hao Xue is a researcher in the fields of spatio-temporal data mining, trajectory prediction, and computer vision. He received the B.S. and M.S. degrees from Harbin Institute of Technology, Harbin, China in 2014 and 2016 respectively. He recently completed the Ph.D. degree in computer vision at The University of Western Australia (UWA). Currently, he is a Research Fellow working at Computer Science and Information Technology, the School of Science, at RMIT University in Melbourne.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Kai Qin</title>
-      <link>https://kaiqinchi.github.io/authors/kai-qin/</link>
-      <pubDate>Wed, 15 Jan 2020 15:43:16 +1100</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/kai-qin/</guid>
-      <description></description>
     </item>
     
     <item>
