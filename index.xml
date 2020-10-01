@@ -42,16 +42,6 @@
     </item>
     
     <item>
-      <title>Trajectory Monitoring and Mining for Collision Avoidance</title>
-      <link>https://kaiqinchi.github.io/project/trajectory_modelling/</link>
-      <pubDate>Wed, 15 Jan 2020 15:43:16 +1100</pubDate>
-      <guid>https://kaiqinchi.github.io/project/trajectory_modelling/</guid>
-      <description>&lt;p&gt;Our research was one of the very first work ever done internationally in trajectory monitoring and mining for collision avoidance. Vehicle trajectory and manoeuvres were monitored and mined in order to extract collision patterns in road intersections from near collision events. The extracted patterns were used to detect conflicting intentions early on, prior to entering intersections, and for collision warning to be issued. The collision pattern mining, detection, and warning framework managed to issue collision warning 3-4 seconds earlier than the baseline mathematical models, which was significant in the area of collision avoidance, and could make the difference between life and death in real-world situations.&lt;/p&gt;
-&lt;p&gt;This work was cited multiple times by the same group of researchers from UC Berkeley’s Intelligent Transportation Systems and Robotics department and Mercedes Benz R&amp;amp;D centre, who followed the idea from Dr. Salim’s papers further to develop their own risk assessment at road intersections. The work was also cited by autonomous vehicle researchers from Massachusetts Institute of Technology (MIT), signal processing researchers from University of Washington, and a mobile network researcher from National Cheng Kung University who developed his own collision warning apparatus which was patented in 2016. The work also inspired the recent patent “Autonomous Vehicle Control System” by Northrop Grumman Corporations (20170097640), which leads to a collaboration funded by Northrop Grumman Corporations.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Context and community modelling using proximity signal</title>
       <link>https://kaiqinchi.github.io/project/context_community_modelling/</link>
       <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
