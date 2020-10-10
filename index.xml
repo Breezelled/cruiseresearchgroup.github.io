@@ -17,12 +17,13 @@
       <link>https://kaiqinchi.github.io/project/behaviour_analytics_of_indoor_occupants/</link>
       <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
       <guid>https://kaiqinchi.github.io/project/behaviour_analytics_of_indoor_occupants/</guid>
-      <description>&lt;p&gt;This project will deploy machine learning to human behaviour and building operational data obtained through Activity Based Working (ABW), aimed at providing insights towards optimising and personalising ABW. The outcome is a cloud-based integrated platform, with tailored ABW apps, for capturing and analysing occupancy behaviour and building performance data. A rich model of workers’ movements, online activities, and social groupings will be learned from synthesising fine-grained ABW behaviours and space utilisation patterns. The web dashboard will be used by Arup to approach their work holistically, making decisions based on a clear view of the total outcomes for their clients and stakeholders, including value for money. It allows Arup to close the design feedback loop, through a deeper understanding of the impact of the engineered parameters of modern offices on ABW and building operations, enhancing the precision with which Arup prescribe solutions on multiple client contexts.&lt;/p&gt;
+      <description>&lt;p&gt;This project will deploy machine learning to human behaviour and building operational data obtained through Activity Based Working (ABW), aimed at providing insights towards optimising and personalising ABW. The outcome is a cloud-based integrated platform, with tailored ABW apps, for capturing and analysing occupancy behaviour and building performance data.&lt;/p&gt;
+&lt;p&gt;A rich model of workers’ movements, online activities, and social groupings will be learned from synthesising fine-grained ABW behaviours and space utilisation patterns. The web dashboard will be used by Arup to approach their work holistically, making decisions based on a clear view of the total outcomes for their clients and stakeholders, including value for money. It allows Arup to close the design feedback loop, through a deeper understanding of the impact of the engineered parameters of modern offices on ABW and building operations, enhancing the precision with which Arup prescribe solutions on multiple client contexts.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Swarming: micro-flight data capture and analysis</title>
+      <title>Swarming: Micro-flight Data Capture and Analysis</title>
       <link>https://kaiqinchi.github.io/project/swarming_micro-flight_data_capture/</link>
       <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
       <guid>https://kaiqinchi.github.io/project/swarming_micro-flight_data_capture/</guid>
@@ -42,17 +43,7 @@
     </item>
     
     <item>
-      <title>Context and community modelling using proximity signal</title>
-      <link>https://kaiqinchi.github.io/project/context_community_modelling/</link>
-      <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
-      <guid>https://kaiqinchi.github.io/project/context_community_modelling/</guid>
-      <description>&lt;p&gt;We have published our research outcomes on fundamental and practical time-series and spatio-temporal data mining and machine learning techniques which can be applied on multiple types of data from sensors, Internet of Things, and social media in the domain of smart cities, smart buildings, smart parking, and intelligent transportation systems. I have been awarded nationally competitive grants and numerous industry contracts, with the total amount awarded of over than 3M in the last 5 years. Nine out of ten of my research grants are funded collaborations with government agencies or industry, with practical applications such as indoor monitoring and analytics in university and retail environments, driving behaviour recognition, road risk analysis, and passenger movement analysis in airports. In my project with local and state governments, I developed new approaches for spatio-temporal aggregation and retrieval of urban data, and clustering heterogeneous urban data.&lt;/p&gt;
-&lt;p&gt;Our research has generated context-aware and personalised models for journey planning. Our work has generated research contributions in analysis, prediction, and personalised profiling of multiple types of trajectories (e.g. human, public transports, private cars, airplanes) from a wide range of datasets from smartphones, wireless infrastructures, sensors, and Internet of Things. We have proposed a novel contour-based accessibility aware route planning algorithm for the mobility impaired, solving the first / last mile problem while traveling on multi-modal transportation network.  We have also developed data-driven predictive trip planning models for taxi passengers and drivers. An accurate taxi wait time prediction model has been tested using large-scale taxi trajectory logs from New York City.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep learning for situation awareness in airport operations</title>
+      <title>Deep Learning for Situation Awareness in Airport Operations</title>
       <link>https://kaiqinchi.github.io/project/deep_learning_for-situation-awareness/</link>
       <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
       <guid>https://kaiqinchi.github.io/project/deep_learning_for-situation-awareness/</guid>
@@ -69,6 +60,7 @@
       <description>&lt;p&gt;Cortana Intelligence Institute is a co-funded initiative between Microsoft Research, Cortana Research and RMIT University, which will drive the next-generation of capabilities for Microsoft’s digital assistant, Cortana.&lt;/p&gt;
 &lt;p&gt;The Institute focused on researching work-related tasks, an area that will help make Cortana a more proactive and context-aware digital assistant that truly amplifies human capabilities. Using sensors in mobile phones, the team built a complex multidimensional data set, which will be used to model and predict a person’s work-related tasks. This includes the physical activity and location of a user, their online and app behaviour, and their interactions with their social groups or peers. Microsoft’s researchers collaborated with RMIT team members on the development of algorithms that use the novel dataset to improve Cortana.&lt;/p&gt;
 &lt;p&gt;This research project contributes to a greater understanding of the contextual factors that may characterize, or even influence, the tasks being performed by professionals and non-professionals. We take rich contextual factors derived from spatial, temporal, and online activities to better understand participants’ task habits. We use repeated patterns of tasks as cues in characterizing implicit task habits. We examine task batching behaviours and predict the tasks participants are about to undertake.&lt;/p&gt;
+&lt;p&gt;You can see more relevant information from this link: &lt;a href=&#34;https://www.microsoft.com/en-us/research/blog/new-institute-explores-future-cortana/&#34;&gt;https://www.microsoft.com/en-us/research/blog/new-institute-explores-future-cortana/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -82,6 +74,24 @@ attraction. There is an increasing pressure to understand the volume of pedestri
 &lt;p&gt;The ability to model future scenarios will provide a basis to plan infrastructure, provide better routing recommendations, and to assist the planning of events throughout the Shire. Latest smart technology has been sourced along with high-level expertise to develop the necessary systems to gather and translate data into productive outcomes to provide better services to the community and tourists.&lt;/p&gt;
 &lt;p&gt;The targeted parking and amenities in the high demand towns have varying operations that need specific sensor types to provide the required data. Consequently, the sensors will
 require the development and implementation of a tailored system to gather the data and provide information for the community, visitors, Council service teams and planners.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>User Context and Community Modelling using Proximity Signals and Cyber, Physical, Social Behaviours</title>
+      <link>https://kaiqinchi.github.io/project/context_community_modelling/</link>
+      <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/project/context_community_modelling/</guid>
+      <description>&lt;p&gt;The modeling of social and mobility networks continues to gain importance in a variety of fields ranging from epidemiology social group and community detection [1, 2], to user movement and behavior understanding [3, 4, 5].&lt;/p&gt;
+&lt;p&gt;In the Simultaneous Extraction of Context and Community (SECC) model that is proposed by Nguyen et al. [1, 2], each context is represented as a multinomial distribution, which indicates the participating level of the users to such context. To detect communities, it then computes the clusters of multinomial distribution to discover proximity contexts and users.&lt;/p&gt;
+&lt;p&gt;In our project, in collaboration with Scentre Group (Westfield malls), we analysed visitor behaviour in shopping malls, with joint learning of semantic behaviours from cyber, physical, and social behaviours [4,5], for contextual recommendations with tripartite graph models [6].&lt;/p&gt;
+&lt;p&gt;[1] Nguyen, T., Nguyen, V., Salim, F. D., &amp;amp; Phung, D. (2016, March). SECC: Simultaneous extraction of context and community from pervasive signals. In 2016 IEEE International Conference on Pervasive Computing and Communications (PerCom) (pp. 1-9). IEEE.&lt;/p&gt;
+&lt;p&gt;[2] Nguyen, T., Nguyen, V., Salim, F. D., Le, D. V., &amp;amp; Phung, D. (2017). A Simultaneous Extraction of Context and Community from pervasive signals using nested Dirichlet process. Pervasive and Mobile Computing, 38, 396-417.&lt;/p&gt;
+&lt;p&gt;[3] Ren, Y., Tomko, M., Salim, F. D., Chan, J., &amp;amp; Sanderson, M. (2018). Understanding the predictability of user demographics from cyber-physical-social behaviours in indoor retail spaces. EPJ Data Science, 7, 1-21.&lt;/p&gt;
+&lt;p&gt;[4] Manpreet Kaur, Flora D. Salim, Yongli Ren, Jeffrey Chan, Martin Tomko, and Mark Sanderson. 2020. Joint Modelling of Cyber Activities and Physical Context to Improve Prediction of Visitor Behaviors. ACM Trans. Sen. Netw. 16, 3, Article 28 (August 2020), 25 pages. DOI:https://doi.org/10.1145/3393692&lt;/p&gt;
+&lt;p&gt;[5] Manpreet Kaur, Flora D. Salim, Yongli Ren, Jeffrey Chan, Martin Tomko, and Mark Sanderson. 2018. Shopping intent recognition and location prediction from cyber-physical activities via wi-fi logs. In Proceedings of the 5th Conference on Systems for Built Environments (BuildSys &amp;lsquo;18). Association for Computing Machinery, New York, NY, USA, 130–139. DOI:https://doi.org/10.1145/3276774.3276786&lt;/p&gt;
+&lt;p&gt;[6] Y. Ren, M. Tomko, F. D. Salim, J. Chan, C. L. A. Clarke and M. Sanderson, &amp;ldquo;A Location-Query-Browse Graph for Contextual Recommendation,&amp;rdquo; in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 2, pp. 204-218, 1 Feb. 2018, doi: 10.1109/TKDE.2017.2766059.
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/8081816&#34;&gt;https://ieeexplore.ieee.org/document/8081816&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
