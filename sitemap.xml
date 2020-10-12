@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kaiqinchi.github.io/authors/kai/</loc>
+    <lastmod>2020-09-20T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/authors/shohreh/</loc>
+    <lastmod>2020-09-20T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kaiqinchi.github.io/authors/</loc>
     <lastmod>2020-09-20T15:43:16+11:00</lastmod>
   </url>
@@ -45,6 +55,11 @@
   <url>
     <loc>https://kaiqinchi.github.io/project/multi-resolution_situation_recognition/</loc>
     <lastmod>2020-01-15T15:43:16+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kaiqinchi.github.io/authors/flora/</loc>
+    <lastmod>2020-01-15T15:42:51+11:00</lastmod>
   </url>
   
   <url>
@@ -1543,10 +1558,6 @@
   </url>
   
   <url>
-    <loc>https://kaiqinchi.github.io/authors/flora/</loc>
-  </url>
-  
-  <url>
     <loc>https://kaiqinchi.github.io/authors/futoon/</loc>
   </url>
   
@@ -1563,10 +1574,6 @@
   </url>
   
   <url>
-    <loc>https://kaiqinchi.github.io/authors/kai/</loc>
-  </url>
-  
-  <url>
     <loc>https://kaiqinchi.github.io/authors/nao/</loc>
   </url>
   
@@ -1576,10 +1583,6 @@
   
   <url>
     <loc>https://kaiqinchi.github.io/authors/saiedur/</loc>
-  </url>
-  
-  <url>
-    <loc>https://kaiqinchi.github.io/authors/shohreh/</loc>
   </url>
   
   <url>

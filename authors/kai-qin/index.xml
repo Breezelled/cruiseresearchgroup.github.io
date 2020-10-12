@@ -34,43 +34,12 @@
     </item>
     
     <item>
-      <title>Time-series Forecasting and Segmentation</title>
-      <link>https://kaiqinchi.github.io/project/time-series_forecasting_and_segmentation/</link>
-      <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
-      <guid>https://kaiqinchi.github.io/project/time-series_forecasting_and_segmentation/</guid>
-      <description>&lt;p&gt;Today, we are faced with the increasing growth of ubiquitous sensors in various fields, generating an enormous amount of time-series. This growing number of sensor-based time-series applications require new approaches in data mining, knowledge discovery, and ubiquitous computing.&lt;/p&gt;
-&lt;p&gt;We proposed a general framework for multivariate time series forecasting, called evolutionary model construction (EMC), to jointly select the informative channels of the factors, to extract the valuable features from the selected channels applied to the optimal-configured model, and to improve prediction accuracy[5,6].&lt;/p&gt;
-&lt;p&gt;When dealing with high-dimensional time-series from mobile, wearable, and Internet of Things streamed from the field, the data is often noisy and unlabelled. We perform unsupervised and self-supervised multivariate time-series pre-processing approaches such as segmentation and change point detection problems to extract the most homogeneous segments in the absence of ground truth labels.&lt;/p&gt;
-&lt;p&gt;To solve multidimensional time-series segmentation, we have proposed an unsupervised approach, IGTS (Information Gain-based Temporal Segmentation)[1,2], a technique to find the transition times in human activities and daily routines[3], from heterogeneous sensor data.
-Further, ESPRESSO [4] (Entropy and ShaPe awaRe time-series SegmentatiOn), a general multivariate segmentation method, is proposed as an improvement to IGTS, specifically to cover a broader range of inputs by combining statistical (entropy) and shape-based features of time-series.&lt;/p&gt;
-&lt;p&gt;[1] Sadri, A., Ren, Y. and Salim, F.D., 2017. Information gain-based metric for recognizing transitions in human activities. Pervasive and Mobile Computing, 38, pp.92-109.&lt;/p&gt;
-&lt;p&gt;[2] Zameni, M., Sadri, A., Ghafoori, Z., Moshtaghi, M., Salim, F.D., Leckie, C. and Ramamohanarao, K., 2020. Unsupervised online change point detection in high-dimensional time series. Knowledge and Information Systems, 62(2), pp.719-750.&lt;/p&gt;
-&lt;p&gt;[3] Sadri, A., Salim, F.D., Ren, Y., Shao, W., Krumm, J.C. and Mascolo, C., 2018. What will you do for the rest of the day? an approach to continuous trajectory prediction. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(4), pp.1-26.&lt;/p&gt;
-&lt;p&gt;[4] Deldari, S., Smith, D.V., Sadri, A. and Salim, F., 2020. ESPRESSO: Entropy and ShaPe awaRe timE-Series SegmentatiOn for processing heterogeneous sensor data. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3), pp.1-24. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3411832&#34;&gt;https://dl.acm.org/doi/abs/10.1145/3411832&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[5] Song, H., Qin, A.K. and Salim, F.D., 2018, July. Evolutionary multi-objective ensemble learning for multivariate electricity consumption prediction. In 2018 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.&lt;/p&gt;
-&lt;p&gt;[6] Song, H., Qin, A.K. and Salim, F.D., 2020. Evolutionary model construction for electricity consumption prediction. Neural Computing and Applications, 32(16), pp.12155-12172.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Deep Learning for Situation Awareness in Airport Operations</title>
       <link>https://kaiqinchi.github.io/project/deep_learning_for-situation-awareness/</link>
       <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
       <guid>https://kaiqinchi.github.io/project/deep_learning_for-situation-awareness/</guid>
       <description>&lt;p&gt;This project that is funded by Northrop Grumman Corporation investigates the patterns of ground vehicles and aircraft trajectories, combining the analysis of their spatial movement behaviours and contextual information. We utilise state-of-the-art artificial intelligence and big data analytics techniques to clean, preprocess, and analyse sizeable on-ground aircraft GPS data. We also establish a context-aware system to predict the delay time of each aircraft by developing a novel Airport Traffic Complexity (ATC) model.&lt;/p&gt;
 &lt;p&gt;The outcome leads to multiple economic and security benefits for airline passengers, air traffic controllers, and airport managers. Our work provides a situational awareness map to the airport traffic controller, which reveals the potential factors that affect the traffic flow at the airport, as well as points out the hot spots and anomalous cases. Additionally, our proposed solution could inform airport managers and traffic controllers regarding the estimated delay time of flights on the tarmac at the specific airport.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Microsoft RMIT Cortana Intelligence Institute</title>
-      <link>https://kaiqinchi.github.io/project/microsoft_rmit_cortana_intelligence_institute/</link>
-      <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
-      <guid>https://kaiqinchi.github.io/project/microsoft_rmit_cortana_intelligence_institute/</guid>
-      <description>&lt;p&gt;Cortana Intelligence Institute is a co-funded initiative between Microsoft Research, Cortana Research and RMIT University, which will drive the next-generation of capabilities for Microsoft’s digital assistant, Cortana.&lt;/p&gt;
-&lt;p&gt;The Institute focused on researching work-related tasks, an area that will help make Cortana a more proactive and context-aware digital assistant that truly amplifies human capabilities. Using sensors in mobile phones, the team built a complex multidimensional data set, which will be used to model and predict a person’s work-related tasks. This includes the physical activity and location of a user, their online and app behaviour, and their interactions with their social groups or peers. Microsoft’s researchers collaborated with RMIT team members on the development of algorithms that use the novel dataset to improve Cortana.&lt;/p&gt;
-&lt;p&gt;This research project contributes to a greater understanding of the contextual factors that may characterize, or even influence, the tasks being performed by professionals and non-professionals. We take rich contextual factors derived from spatial, temporal, and online activities to better understand participants’ task habits. We use repeated patterns of tasks as cues in characterizing implicit task habits. We examine task batching behaviours and predict the tasks participants are about to undertake.&lt;/p&gt;
-&lt;p&gt;You can see more relevant information from this link: &lt;a href=&#34;https://www.microsoft.com/en-us/research/blog/new-institute-explores-future-cortana/&#34;&gt;https://www.microsoft.com/en-us/research/blog/new-institute-explores-future-cortana/&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -84,24 +53,6 @@ attraction. There is an increasing pressure to understand the volume of pedestri
 &lt;p&gt;The ability to model future scenarios will provide a basis to plan infrastructure, provide better routing recommendations, and to assist the planning of events throughout the Shire. Latest smart technology has been sourced along with high-level expertise to develop the necessary systems to gather and translate data into productive outcomes to provide better services to the community and tourists.&lt;/p&gt;
 &lt;p&gt;The targeted parking and amenities in the high demand towns have varying operations that need specific sensor types to provide the required data. Consequently, the sensors will
 require the development and implementation of a tailored system to gather the data and provide information for the community, visitors, Council service teams and planners.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>User Context and Community Modelling using Proximity Signals and Cyber, Physical, Social Behaviours</title>
-      <link>https://kaiqinchi.github.io/project/context_community_modelling/</link>
-      <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
-      <guid>https://kaiqinchi.github.io/project/context_community_modelling/</guid>
-      <description>&lt;p&gt;The modeling of social and mobility networks continues to gain importance in a variety of fields ranging from epidemiology social group and community detection [1, 2], to user movement and behavior understanding [3, 4, 5].&lt;/p&gt;
-&lt;p&gt;In the Simultaneous Extraction of Context and Community (SECC) model that is proposed by Nguyen et al. [1, 2], each context is represented as a multinomial distribution, which indicates the participating level of the users to such context. To detect communities, it then computes the clusters of multinomial distribution to discover proximity contexts and users.&lt;/p&gt;
-&lt;p&gt;In our project, in collaboration with Scentre Group (Westfield malls), we analysed visitor behaviour in shopping malls, with joint learning of semantic behaviours from cyber, physical, and social behaviours [4,5], for contextual recommendations with tripartite graph models [6].&lt;/p&gt;
-&lt;p&gt;[1] Nguyen, T., Nguyen, V., Salim, F. D., &amp;amp; Phung, D. (2016, March). SECC: Simultaneous extraction of context and community from pervasive signals. In 2016 IEEE International Conference on Pervasive Computing and Communications (PerCom) (pp. 1-9). IEEE.&lt;/p&gt;
-&lt;p&gt;[2] Nguyen, T., Nguyen, V., Salim, F. D., Le, D. V., &amp;amp; Phung, D. (2017). A Simultaneous Extraction of Context and Community from pervasive signals using nested Dirichlet process. Pervasive and Mobile Computing, 38, 396-417.&lt;/p&gt;
-&lt;p&gt;[3] Ren, Y., Tomko, M., Salim, F. D., Chan, J., &amp;amp; Sanderson, M. (2018). Understanding the predictability of user demographics from cyber-physical-social behaviours in indoor retail spaces. EPJ Data Science, 7, 1-21.&lt;/p&gt;
-&lt;p&gt;[4] Manpreet Kaur, Flora D. Salim, Yongli Ren, Jeffrey Chan, Martin Tomko, and Mark Sanderson. 2020. Joint Modelling of Cyber Activities and Physical Context to Improve Prediction of Visitor Behaviors. ACM Trans. Sen. Netw. 16, 3, Article 28 (August 2020), 25 pages. DOI:https://doi.org/10.1145/3393692&lt;/p&gt;
-&lt;p&gt;[5] Manpreet Kaur, Flora D. Salim, Yongli Ren, Jeffrey Chan, Martin Tomko, and Mark Sanderson. 2018. Shopping intent recognition and location prediction from cyber-physical activities via wi-fi logs. In Proceedings of the 5th Conference on Systems for Built Environments (BuildSys &amp;lsquo;18). Association for Computing Machinery, New York, NY, USA, 130–139. DOI:https://doi.org/10.1145/3276774.3276786&lt;/p&gt;
-&lt;p&gt;[6] Y. Ren, M. Tomko, F. D. Salim, J. Chan, C. L. A. Clarke and M. Sanderson, &amp;ldquo;A Location-Query-Browse Graph for Contextual Recommendation,&amp;rdquo; in IEEE Transactions on Knowledge and Data Engineering, vol. 30, no. 2, pp. 204-218, 1 Feb. 2018, doi: 10.1109/TKDE.2017.2766059.
-&lt;a href=&#34;https://ieeexplore.ieee.org/document/8081816&#34;&gt;https://ieeexplore.ieee.org/document/8081816&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -13,6 +13,24 @@
     </image>
     
     <item>
+      <title></title>
+      <link>https://kaiqinchi.github.io/authors/kai/</link>
+      <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/authors/kai/</guid>
+      <description>&lt;p&gt;(Kyle) Kai Qin is current a Phd candidate in RMIT University. He received the Bachelor degree in Computer Science and Technology from Guilin University of Electronic Technology, Guilin, China, in 2010, and the Master degree in Information Technology Engineering from RMIT University, Melbourne, Australia, in 2015. He was previous a professional software engineer who worked in Melbourne, Australia. His main areas of research interest are data analytics, machine Learning, and optimisation in graph alignment or embedding.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kaiqinchi.github.io/authors/shohreh/</link>
+      <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/authors/shohreh/</guid>
+      <description>&lt;p&gt;Shohreh is a PhD student in Computer Science at RMIT University, Australia, since 2018. Her research interests are on multivariate time-series and sensor analysis, deep learning, anomaly and change point detection, Context Inference for Future Intelligent Sensor Applications. She received her Bachelor and Master in Software Engineering(2011) and Computer Networks(2013), respectively. She has worked as a Computer Network Specialist and now si studying PhD in Data Science.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Kai Qin</title>
       <link>https://kaiqinchi.github.io/authors/kai-qin/</link>
       <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
@@ -26,6 +44,17 @@
       <pubDate>Wed, 15 Jan 2020 15:43:16 +1100</pubDate>
       <guid>https://kaiqinchi.github.io/authors/hao/</guid>
       <description>&lt;p&gt;Hao Xue is a researcher in the fields of spatio-temporal data mining, trajectory prediction, and computer vision. He received the B.S. and M.S. degrees from Harbin Institute of Technology, Harbin, China in 2014 and 2016 respectively. He recently completed the Ph.D. degree in computer vision at The University of Western Australia (UWA). Currently, he is a Research Fellow working at Computer Science and Information Technology, the School of Science, at RMIT University in Melbourne.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://kaiqinchi.github.io/authors/flora/</link>
+      <pubDate>Wed, 15 Jan 2020 15:42:51 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/authors/flora/</guid>
+      <description>&lt;p&gt;Flora Salim is an Associate Professor at RMIT University, Melbourne, Australia. She leads the Context Recognition and Urban Intelligence (CRUISE) group, working on context and behaviour recognition, time-series and spatio-temporal data mining, and applied machine learning (and deep learning) for smart cities, smart buildings, and smart mobility, using IoT, sensor, and multimodal data. She is a Deputy Director of the RMIT Centre for Information Discovery and Data Analytics. She is a Humboldt Fellow, awarded by Alexander von Humboldt Foundation. She is also a Victoria Fellow 2018, a highly-competitive merit-based award from the Victorian Government.&lt;/p&gt;
+&lt;p&gt;She is the recipient of the RMIT Award for Research Impact - Technology 2018. She received the RMIT Vice-Chancellor&#39;s Award for Research Excellence – Early Career Researcher in 2016. Previously, she was an Australian Research Council (ARC) Postdoctoral Industry (APDI) Fellow in 2012-2015. Prior to that, she was a postdoc in Spatial Information Architecture Lab. She obtained her PhD from Monash University in 2009. Prior to her PhD, she was a Senior Software Engineer at mediaproxy.&lt;/p&gt;
+&lt;p&gt;She is an Editorial Board member (Area Editor) of Pervasive and Mobile Computing. She is an Associate Editor of the PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), the journal publication of Ubicomp.&lt;/p&gt;
 </description>
     </item>
     
@@ -1421,17 +1450,6 @@
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/flora/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/flora/</guid>
-      <description>&lt;p&gt;Flora Salim is an Associate Professor at RMIT University, Melbourne, Australia. She leads the Context Recognition and Urban Intelligence (CRUISE) group, working on context and behaviour recognition, time-series and spatio-temporal data mining, and applied machine learning (and deep learning) for smart cities, smart buildings, and smart mobility, using IoT, sensor, and multimodal data. She is a Deputy Director of the RMIT Centre for Information Discovery and Data Analytics. She is a Humboldt Fellow, awarded by Alexander von Humboldt Foundation. She is also a Victoria Fellow 2018, a highly-competitive merit-based award from the Victorian Government.&lt;/p&gt;
-&lt;p&gt;She is the recipient of the RMIT Award for Research Impact - Technology 2018. She received the RMIT Vice-Chancellor&#39;s Award for Research Excellence – Early Career Researcher in 2016. Previously, she was an Australian Research Council (ARC) Postdoctoral Industry (APDI) Fellow in 2012-2015. Prior to that, she was a postdoc in Spatial Information Architecture Lab. She obtained her PhD from Monash University in 2009. Prior to her PhD, she was a Senior Software Engineer at mediaproxy.&lt;/p&gt;
-&lt;p&gt;She is an Editorial Board member (Area Editor) of Pervasive and Mobile Computing. She is an Associate Editor of the PACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), the journal publication of Ubicomp.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://kaiqinchi.github.io/authors/futoon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kaiqinchi.github.io/authors/futoon/</guid>
@@ -1467,15 +1485,6 @@
     
     <item>
       <title></title>
-      <link>https://kaiqinchi.github.io/authors/kai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/kai/</guid>
-      <description>&lt;p&gt;(Kyle) Kai Qin is current a Phd candidate in RMIT University. He received the Bachelor degree in Computer Science and Technology from Guilin University of Electronic Technology, Guilin, China, in 2010, and the Master degree in Information Technology Engineering from RMIT University, Melbourne, Australia, in 2015. He was previous a professional software engineer who worked in Melbourne, Australia. His main areas of research interest are data analytics, machine Learning, and optimisation in graph alignment or embedding.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://kaiqinchi.github.io/authors/nao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kaiqinchi.github.io/authors/nao/</guid>
@@ -1498,15 +1507,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kaiqinchi.github.io/authors/saiedur/</guid>
       <description>&lt;p&gt;I have hands-on experience in industry-focused data science and machine learning projects. I am passionate about conceptualizing real-world problems and finding their solutions from different perspectives. Currently, I am working closely with Microsoft Research and Arup for the design and development of future assistive technologies (e.g. Cortana digital assistant and Human behavioural analytics). I have evidenced experience in interpreting R&amp;amp;D outcomes through extensive technical writing such as industry white paper and scholarly publications.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://kaiqinchi.github.io/authors/shohreh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kaiqinchi.github.io/authors/shohreh/</guid>
-      <description>&lt;p&gt;Shohreh is a PhD student in Computer Science at RMIT University, Australia, since 2018. Her research interests are on multivariate time-series and sensor analysis, deep learning, anomaly and change point detection, Context Inference for Future Intelligent Sensor Applications. She received her Bachelor and Master in Software Engineering(2011) and Computer Networks(2013), respectively. She has worked as a Computer Network Specialist and now si studying PhD in Data Science.&lt;/p&gt;
 </description>
     </item>
     
