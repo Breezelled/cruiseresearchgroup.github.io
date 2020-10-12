@@ -34,6 +34,25 @@
     </item>
     
     <item>
+      <title>Time-series Forecasting and Segmentation</title>
+      <link>https://kaiqinchi.github.io/project/time-series_forecasting_and_segmentation/</link>
+      <pubDate>Sun, 20 Sep 2020 15:43:16 +1100</pubDate>
+      <guid>https://kaiqinchi.github.io/project/time-series_forecasting_and_segmentation/</guid>
+      <description>&lt;p&gt;Today, we are faced with the increasing growth of ubiquitous sensors in various fields, generating an enormous amount of time-series. This growing number of sensor-based time-series applications require new approaches in data mining, knowledge discovery, and ubiquitous computing.&lt;/p&gt;
+&lt;p&gt;We proposed a general framework for multivariate time series forecasting, called evolutionary model construction (EMC), to jointly select the informative channels of the factors, to extract the valuable features from the selected channels applied to the optimal-configured model, and to improve prediction accuracy[5,6].&lt;/p&gt;
+&lt;p&gt;When dealing with high-dimensional time-series from mobile, wearable, and Internet of Things streamed from the field, the data is often noisy and unlabelled. We perform unsupervised and self-supervised multivariate time-series pre-processing approaches such as segmentation and change point detection problems to extract the most homogeneous segments in the absence of ground truth labels.&lt;/p&gt;
+&lt;p&gt;To solve multidimensional time-series segmentation, we have proposed an unsupervised approach, IGTS (Information Gain-based Temporal Segmentation)[1,2], a technique to find the transition times in human activities and daily routines[3], from heterogeneous sensor data.
+Further, ESPRESSO [4] (Entropy and ShaPe awaRe time-series SegmentatiOn), a general multivariate segmentation method, is proposed as an improvement to IGTS, specifically to cover a broader range of inputs by combining statistical (entropy) and shape-based features of time-series.&lt;/p&gt;
+&lt;p&gt;[1] Sadri, A., Ren, Y. and Salim, F.D., 2017. Information gain-based metric for recognizing transitions in human activities. Pervasive and Mobile Computing, 38, pp.92-109.&lt;/p&gt;
+&lt;p&gt;[2] Zameni, M., Sadri, A., Ghafoori, Z., Moshtaghi, M., Salim, F.D., Leckie, C. and Ramamohanarao, K., 2020. Unsupervised online change point detection in high-dimensional time series. Knowledge and Information Systems, 62(2), pp.719-750.&lt;/p&gt;
+&lt;p&gt;[3] Sadri, A., Salim, F.D., Ren, Y., Shao, W., Krumm, J.C. and Mascolo, C., 2018. What will you do for the rest of the day? an approach to continuous trajectory prediction. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2(4), pp.1-26.&lt;/p&gt;
+&lt;p&gt;[4] Deldari, S., Smith, D.V., Sadri, A. and Salim, F., 2020. ESPRESSO: Entropy and ShaPe awaRe timE-Series SegmentatiOn for processing heterogeneous sensor data. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3), pp.1-24. &lt;a href=&#34;https://dl.acm.org/doi/abs/10.1145/3411832&#34;&gt;https://dl.acm.org/doi/abs/10.1145/3411832&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5] Song, H., Qin, A.K. and Salim, F.D., 2018, July. Evolutionary multi-objective ensemble learning for multivariate electricity consumption prediction. In 2018 International Joint Conference on Neural Networks (IJCNN) (pp. 1-8). IEEE.&lt;/p&gt;
+&lt;p&gt;[6] Song, H., Qin, A.K. and Salim, F.D., 2020. Evolutionary model construction for electricity consumption prediction. Neural Computing and Applications, 32(16), pp.12155-12172.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Multi-resolution Situation Recognition for Urban-Aware Smart Assistant</title>
       <link>https://kaiqinchi.github.io/project/multi-resolution_situation_recognition/</link>
       <pubDate>Wed, 15 Jan 2020 15:43:16 +1100</pubDate>
