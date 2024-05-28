@@ -23,30 +23,84 @@
       opacity: 1;
       transform: scale(1);
     }
+    /* Add some styling for the navigation buttons */
+    .nav-btn {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background-color: #333;
+      color: #fff;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+      opacity: 0.5;
+    }
+    .nav-btn:hover {
+      opacity: 1;
+    }
+    .prev-btn {
+      left: 10px;
+    }
+    .next-btn {
+      right: 10px;
+    }
   </style>
 </head>
 <body>
 
 <div class="gallery">
   <img class="gallery-img" src="/img/Slide Deck_Page_01_Image_0001.jpg" style="width:100%" alt="Expo Page 1">
-    <img class="gallery-img" src="/img/Slide Deck_Page_02_Image_0001.jpg" style="width:100%" alt="Expo Page 2">
-    <img class="gallery-img" src="/img/Slide Deck_Page_03_Image_0001.jpg" style="width:100%" alt="Expo Page 3">
-    <img class="gallery-img" src="/img/Slide Deck_Page_04_Image_0001.jpg" style="width:100%" alt="Expo Page 4">
-    <img class="gallery-img" src="/img/Slide Deck_Page_05_Image_0001.jpg" style="width:100%" alt="Expo Page 5">
-    <img class="gallery-img" src="/img/Slide Deck_Page_06_Image_0001.jpg" style="width:100%" alt="Expo Page 6">
-    <img class="gallery-img" src="/img/Slide Deck_Page_07_Image_0001.jpg" style="width:100%" alt="Expo Page 7">
-    <img class="gallery-img" src="/img/Slide Deck_Page_08_Image_0001.jpg" style="width:100%" alt="Expo Page 8">
-    <img class="gallery-img" src="/img/Slide Deck_Page_09_Image_0001.jpg" style="width:100%" alt="Expo Page 9">
-    <img class="gallery-img" src="/img/Slide Deck_Page_10_Image_0001.jpg" style="width:100%" alt="Expo Page 10">
+  <img class="gallery-img" src="/img/Slide Deck_Page_02_Image_0001.jpg" style="width:100%" alt="Expo Page 2">
+  <img class="gallery-img" src="/img/Slide Deck_Page_03_Image_0001.jpg" style="width:100%" alt="Expo Page 3">
+  <img class="gallery-img" src="/img/Slide Deck_Page_04_Image_0001.jpg" style="width:100%" alt="Expo Page 4">
+  <img class="gallery-img" src="/img/Slide Deck_Page_05_Image_0001.jpg" style="width:100%" alt="Expo Page 5">
+  <img class="gallery-img" src="/img/Slide Deck_Page_06_Image_0001.jpg" style="width:100%" alt="Expo Page 6">
+  <img class="gallery-img" src="/img/Slide Deck_Page_07_Image_0001.jpg" style="width:100%" alt="Expo Page 7">
+  <img class="gallery-img" src="/img/Slide Deck_Page_08_Image_0001.jpg" style="width:100%" alt="Expo Page 8">
+  <img class="gallery-img" src="/img/Slide Deck_Page_09_Image_0001.jpg" style="width:100%" alt="Expo Page 9">
+  <img class="gallery-img" src="/img/Slide Deck_Page_10_Image_0001.jpg" style="width:100%" alt="Expo Page 10">
 </div>
+
+<!-- Add navigation buttons -->
+<button class="nav-btn prev-btn" onclick="navigate(-1)">Previous</button>
+<button class="nav-btn next-btn" onclick="navigate(1)">Next</button>
+
+<script>
+  // JavaScript to handle the navigation buttons
+  var currentIndex = 0; // Start with the first image
+  var gallery = document.querySelector('.gallery');
+  var images = document.querySelectorAll('.gallery-img');
+  var prevBtn = document.querySelector('.prev-btn');
+  var nextBtn = document.querySelector('.next-btn');
+
+  function navigate(direction) {
+    var newIndex = currentIndex + direction;
+    
+    // Ensure newIndex is within the bounds of the images array
+    if (newIndex < 0) newIndex = images.length - 1;
+    if (newIndex >= images.length) newIndex = 0;
+
+    // Update the current index and scroll to the new image
+    currentIndex = newIndex;
+    gallery.scrollLeft = gallery.offsetWidth * currentIndex;
+  }
+
+  // Optional: Disable previous button at the start and next button at the end
+  prevBtn.disabled = currentIndex === 0;
+  nextBtn.disabled = currentIndex === images.length - 1;
+
+  // Optional: Update the disabled state when navigating
+  function updateButtonStates() {
+    prevBtn.disabled = currentIndex === 0;
+    nextBtn.disabled = currentIndex === images.length - 1;
+  }
+
+  window.addEventListener('load', function() {
+    updateButtonStates();
+  });
+
+  navigate(0); // Initialize the gallery with the first image in view
+</script>
 
 </body>
 </html>
-
-
-
-
-
-
-
-
